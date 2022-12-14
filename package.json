@@ -1,0 +1,32 @@
+{
+  "name": "theme-ui-jhez",
+  "displayName": "theme-ui-jhez",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Jhez UI",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Jhez UI-color-theme.json"
+      }
+    ]
+  },
+  "icon": "icons/JH.png",
+  "author": {
+    "name": "Jair Hernandez",
+    "email": "jairht19@gmail.com",
+    "url": "https://www.linkedin.com/in/jair-hernandez-aa8215198"
+  },
+  "repository": {
+    "url": "https://github.com/jairht19/jhez-ui-vsc.git",
+    "type": "git"
+  },
+  "publisher": "jairht"
+}
